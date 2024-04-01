@@ -15,8 +15,7 @@ Brainwave is a modern UI/UX website developed using React and Tailwind CSS, exem
 - **Complex UI Geometry:** Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
 - **Latest UI Trends:** Incorporates modern design elements such as bento grids.
 - **Cool Gradients:** Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
-- **Responsive:** Ensures seamless functionality and aesthetics across all devices
-- *and many more, including code architecture and reusability*
+- **Responsive:** Ensures seamless functionality and aesthetics across all devices *and many more, including code architecture and reusability*
 
 ## Quick Start
 Follow these steps to set up the project locally on your machine.
